@@ -7,9 +7,33 @@ payload:
   - DOMAIN-SUFFIX,hellodesk.cn
   - DOMAIN-SUFFIX,todesk.net.cn
   - DOMAIN-SUFFIX,orayimg.com
-#wechat
+#TX
   - DOMAIN-SUFFIX,tc.qq.com
   - DOMAIN-SUFFIX,dldir1v6.qq.com
   - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,qpic.cn
 #bank
   - DOMAIN-SUFFIX,psbc.com
+  - DOMAIN-SUFFIX,icbc.com.cn
+  - DOMAIN-SUFFIX,cib.com.cn
+  - DOMAIN-SUFFIX,cmbc.com.cn
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,bankofbeijing.com.cn
+  - DOMAIN-SUFFIX,citicbank.cn
+  - DOMAIN-SUFFIX,95516.cn
+  - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,cgbchina.com.cn
+  - DOMAIN-SUFFIX,pingan.com.cn
+  - DOMAIN-SUFFIX,jk.cn
+  - DOMAIN-SUFFIX,cfhc.citic
+  - DOMAIN-SUFFIX,citicbank.com
+  - DOMAIN-SUFFIX,cebbank.com
+  - DOMAIN-SUFFIX,ccb.com
+  - DOMAIN-SUFFIX,pbcdci.cn
+  - DOMAIN-SUFFIX,pbc.gov.cn
+  - DOMAIN-SUFFIX,abchina.com.cn
+  - DOMAIN-SUFFIX,abchina.com
+  - DOMAIN-SUFFIX,boc.cn
+  - DOMAIN-SUFFIX,bankofchina.com
+  - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-SUFFIX,bank-of-china.com
