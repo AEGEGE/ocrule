@@ -1,4 +1,5 @@
 payload:
+#remotedesk
   - DOMAIN-SUFFIX,oray.com
   - DOMAIN-SUFFIX,oray.net
   - DOMAIN-SUFFIX,sunlogin.net
@@ -6,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,hellodesk.cn
   - DOMAIN-SUFFIX,todesk.net.cn
   - DOMAIN-SUFFIX,orayimg.com
+#wechat
   - DOMAIN-SUFFIX,tc.qq.com
   - DOMAIN-SUFFIX,dldir1v6.qq.com
   - DOMAIN-SUFFIX,weixin.qq.com
+#bank
+  - DOMAIN-SUFFIX,psbc.com
