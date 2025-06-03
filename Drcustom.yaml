@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,dldir1v6.qq.com
   - DOMAIN-SUFFIX,weixin.qq.com
   - DOMAIN-SUFFIX,qpic.cn
+#aliyun
+  - DOMAIN-SUFFIX,aliyun.com
 #bank
   - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,icbc.com.cn
