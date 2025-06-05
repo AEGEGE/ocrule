@@ -12,6 +12,11 @@ payload:
   - DOMAIN-SUFFIX,dldir1v6.qq.com
   - DOMAIN-SUFFIX,weixin.qq.com
   - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,my-imcloud.com
+  - DOMAIN-SUFFIX,tencentcos.cn
+  - DOMAIN-SUFFIX,myqcloud.com
+  - DOMAIN-SUFFIX,wecall.qq.com
 #aliyun
   - DOMAIN-SUFFIX,aliyun.com
 #bank
