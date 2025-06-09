@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,wecall.qq.com
 #aliyun
   - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,goofish.com
 #bank
   - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,icbc.com.cn
