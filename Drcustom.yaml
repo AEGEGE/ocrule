@@ -47,3 +47,15 @@ payload:
   - DOMAIN-SUFFIX,bank-of-china.com
 #IP
   - DOMAIN-SUFFIX,upaiyun.com
+#huawei
+  - DOMAIN-SUFFIX,hiascend.com
+  - DOMAIN-SUFFIX,myhuaweicloud.com
+  - DOMAIN-SUFFIX,huaweicloud
+  - DOMAIN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,huawei.com.cn
+  - DOMAIN-SUFFIX,dbankcdn.com
+  - DOMAIN-SUFFIX,huaweicloud-dns.com
+  - DOMAIN-SUFFIX,huaweicloud-dns.cn
+  - DOMAIN-SUFFIX,dbankcloud.cn
+  - DOMAIN-SUFFIX,gs-dra.game
+  - DOMAIN-SUFFIX,vmall.com
