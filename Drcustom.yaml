@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,tencentcos.cn
   - DOMAIN-SUFFIX,myqcloud.com
   - DOMAIN-SUFFIX,wecall.qq.com
+  - DOMAIN-SUFFIX,weixinbridge.com
+  - DOMAIN-SUFFIX,tencent.com
 #aliyun
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,goofish.com
