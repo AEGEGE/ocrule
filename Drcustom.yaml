@@ -1,4 +1,9 @@
 payload:
+#mydomian
+  - DOMAIN-SUFFIX,espnlol.com
+  - DOMAIN-SUFFIX,smszhd.com
+  - DOMAIN-SUFFIX,1261688.xyz
+  - DOMAIN-SUFFIX,xxooxx.icu
 #remotedesk
   - DOMAIN-SUFFIX,oray.com
   - DOMAIN-SUFFIX,oray.net
