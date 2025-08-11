@@ -15,6 +15,22 @@ payload:
 #apple
   - DOMAIN-SUFFIX,push.apple.com
 #TX
+  - DOMAIN-SUFFIX,rmonitor.qq.com
+  - DOMAIN-SUFFIX,tianshu.qq.com
+  - DOMAIN-SUFFIX,report.qqweb.qq.com
+  - DOMAIN-SUFFIX,aegis.qq.com
+  - DOMAIN-SUFFIX,imgcache.qq.com
+  - DOMAIN-SUFFIX,tencentcs.com
+  - DOMAIN-SUFFIX,wework.qpic.cns.url.cndocs.gtimg.com
+  - DOMAIN-SUFFIX,docs2.gtimg.com
+  - DOMAIN-SUFFIX,alloyreport.cdn-go.cnxui.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,qq-web-legacy.cdn-go.cnssl.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,ssl.captcha.qq.com
+  - DOMAIN-SUFFIX,thirdqq.qlogo.cncaptcha.gtimg.com
+  - DOMAIN-SUFFIX,t.captcha.qq.com
+  - DOMAIN-SUFFIX,docs.qq.com
+  - DOMAIN-SUFFIX,idqqimg.com
   - DOMAIN-SUFFIX,tc.qq.com
   - DOMAIN-SUFFIX,dldir1v6.qq.com
   - DOMAIN-SUFFIX,weixin.qq.com
