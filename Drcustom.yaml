@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,yun-hl.3g.qq.com
   - DOMAIN-SUFFIX,wxqcloud.qq.com
   - DOMAIN-SUFFIX,wxqcloud.qq.com.cn
+  - DOMAIN-SUFFIX,tools.tmga.qq.com
   - IP-ASN,132203
 #aliyun
   - DOMAIN-SUFFIX,aliyun.com
