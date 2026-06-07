@@ -1,4 +1,8 @@
 payload:
+#video
+  - DOMAIN-SUFFIX,yingk.shop
+  - DOMAIN-SUFFIX,skr2.cc
+  - DOMAIN-SUFFIX,yzzyvip-29.com
 #mydomian
   - DOMAIN-SUFFIX,espnlol.com
   - DOMAIN-SUFFIX,smszhd.com
@@ -16,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,push.apple.com
 #TX
   - DOMAIN-SUFFIX,rmonitor.qq.com
+  - DOMAIN-SUFFIX,qlivecdn.com
   - DOMAIN-SUFFIX,tianshu.qq.com
   - DOMAIN-SUFFIX,report.qqweb.qq.com
   - DOMAIN-SUFFIX,aegis.qq.com
