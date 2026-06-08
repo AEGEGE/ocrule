@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,yingk.shop
   - DOMAIN-SUFFIX,skr2.cc
   - DOMAIN-SUFFIX,yzzyvip-29.com
+  - DOMAIN-SUFFIX,baofeng10.com
+  - DOMAIN-SUFFIX,1681688.xyz
 #mydomian
   - DOMAIN-SUFFIX,espnlol.com
   - DOMAIN-SUFFIX,smszhd.com
@@ -125,3 +127,5 @@ payload:
   - DOMAIN-SUFFIX,dbankcloud.cn
   - DOMAIN-SUFFIX,gs-dra.game
   - DOMAIN-SUFFIX,vmall.com
+#JD
+  - DOMAIN-SUFFIX,jdpay.com
