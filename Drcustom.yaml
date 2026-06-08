@@ -133,3 +133,8 @@ payload:
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,pinduoduo.com
   - DOMAIN-SUFFIX,yangkeduo.com
+#taipingyang
+  - DOMAIN-SUFFIX,chcpay.com
+#proxy
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh-proxy.org
