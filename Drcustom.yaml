@@ -129,3 +129,7 @@ payload:
   - DOMAIN-SUFFIX,vmall.com
 #JD
   - DOMAIN-SUFFIX,jdpay.com
+#pingduoduo
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,yangkeduo.com
