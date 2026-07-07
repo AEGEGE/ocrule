@@ -138,3 +138,5 @@ payload:
 #proxy
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
+#HCS
+  - DOMAIN-SUFFIX,hcslab.com.cn
